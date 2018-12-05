@@ -3,23 +3,23 @@ NPScraper
 
 clone this repo:
 
-`sh
+```sh
 git clone https://github.com/moki9/npscraper.git
-`
+```
 
 create virtualenv inside the clone repo:
-`sh
+```sh
 cd npscraper
 virtualenv --python=python3 venv
-`
+```
 
 activate virtualenv
-`sh
+```sh
 . ./venv/bin/activate
-`
+```
 
 run the script
-`
+```
 python scraper.py
-`
+```
 
