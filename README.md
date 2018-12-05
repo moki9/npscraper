@@ -18,6 +18,11 @@ activate virtualenv
 . ./venv/bin/activate
 ```
 
+install requirements
+```sh
+pip install -r requirements.txt
+```
+
 run the script
 ```
 python scraper.py
